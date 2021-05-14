@@ -1,0 +1,7 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over browser:
+browser executes the form event handler
+that sends new notes to server
+that renders new notes to display
+end note
